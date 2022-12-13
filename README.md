@@ -1,7 +1,6 @@
 ## HS Deleted Tweets
 Archives linked below
 
-### [@harissarris](/Data/HarisSarris-202212082335-deleted.md)
 ### [@HarisSarris](/Data/01-HarisSarris-20221209-deleted.md)
 ### [@GreeceyBear](/Data/02-GreeceyBear-20221209-deleted.md)
 ### [@Grea_C_](/Data/03-Grea_C_-20221209-deleted.md)
