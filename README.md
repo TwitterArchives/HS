@@ -6,7 +6,7 @@ Archives linked below
 ### [@Grea_C_](/Data/03-Grea_C_-20221209-deleted.md)
 ### [@HarisWalkerr](/Data/04-HarisWalkerr-20221209-deleted.md)
 ### [@NHarriswalkerr](/Data/05-NHarriswalkerr-20221209-deleted.md)
-### [@HarrisWalkerr (1)](/Data/06-HarrisWalkerr-20221209-deleted-part1)
+### [@HarrisWalkerr (1)](/Data/06-HarrisWalkerr-20221209-deleted-part1.md)
 ### [@HarrisWalkerr (2)](/Data/06-HarrisWalkerr-20221209-deleted-part2)
 ### [@HarrisJoggerr](/Data/07-HarrisJoggerr-20221209-deleted.md)
 ### [@dndjfngjdksjrur](/Data/08-dndjfngjdksjrur-20221209-deleted.md)
